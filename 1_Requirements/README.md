@@ -20,5 +20,5 @@ This application is developed in 'C' Technology
 
 ## Hardware Requirements
 
-1.Processor       : Pentium IV or more
-2.Speed           : 2.0 GHZ or more
+1. Processor        : Pentium IV or more
+2. Speed            : 2.0 GHZ or more
