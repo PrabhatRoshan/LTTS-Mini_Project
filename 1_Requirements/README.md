@@ -10,3 +10,17 @@ This "Trivia quiz" project is designed as a simple console application. In this 
 2. Simple and easy to play
 3. Easy to modify
 4. There is a score card to view the score.
+
+## Software Requirements
+
+This application is developed in 'C' Technology
+
+1. Operating System: Windows 10, Linux (Ubuntu)
+2. Visual Studio Code source code editor
+
+## Hardware Requirements
+
+Processor       : Pentium IV or more
+Speed           : 2.0 GHZ or more
+Memory          : 64 MB RAM or more
+Hard Disk Drive : 5 MB or more
