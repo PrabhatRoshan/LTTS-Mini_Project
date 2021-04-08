@@ -27,5 +27,8 @@ This application is developed in 'C' Technology
 
 ## Functional Requirements
 
-Functional requirement-Description
+1. Create Questions            - User can create questions
+2. Reset Score                 - Resets the score when the user registers new high score
+3. Show Records                - Displays the record of the participants
+4. Help                        - Gives the user instructions and provides help
 
