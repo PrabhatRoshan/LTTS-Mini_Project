@@ -27,5 +27,5 @@ This application is developed in 'C' Technology
 
 ## Functional Requirements
 
-Functional requirement - Description
+Functional requirement-Description
 
