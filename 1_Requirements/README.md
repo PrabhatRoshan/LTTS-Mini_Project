@@ -23,4 +23,4 @@ This application is developed in 'C' Technology
 1.Processor       : Pentium IV or more
 2.Speed           : 2.0 GHZ or more
 3.Memory          : 64 MB RAM or more
-4.Hard Disk Drive : 5 MB or more
+4.Hard Disk Drive : 5 MB or mores
