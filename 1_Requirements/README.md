@@ -28,7 +28,7 @@ Our System is an actual implementation of how a calculator works. We demonstrate
 
 2. Weakness         : Sometimes Need an experienced user to operate, Limited operations for wide variety of applications in modern era.
 
-3. Oppurtunities    : Automates the impact of computation and technology, Progresses the problem solving insights, Develops a ability to describe strategy retrospectively,                         Gives an emphasis on deeper insights
+3. Oppurtunities    : Automates the impact of computation and technology, Progresses the problem solving insights, Develops a ability to describe strategy retrospectively.
 
 4. Threats          : Threats like Virus attack, code vulnerabilty, or cross platform.
 
