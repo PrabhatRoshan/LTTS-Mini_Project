@@ -16,15 +16,16 @@ Our System is an actual implementation of how a calculator works. We demonstrate
 
 ### Functional Requirements
 
-|Functional Requirement|                       Description                       |
-|:---------------------|:--------------------------------------------------------|
-| addition()           | used for adding two or more numbers                     | 
-| subtraction()        | used for subtracting two or more numbers                |
-| multiplication()     | used for multiplying two or more numbers                |
-| division()           | used for dividing two or more numbers                   |
-| factorial()          | used for finding factor of a number                     |
-| modulus()            | used for finding modulus of a number                    |
-| power()              | used for finding power(i.e,square,cube,etc) of a number |
+|Functional Requirement  |                       Description                       |
+|:-----------------------|:--------------------------------------------------------|
+| addition()             | used for adding two or more numbers                     | 
+| subtraction()          | used for subtracting two or more numbers                |
+| multiplication()       | used for multiplying two or more numbers                |
+| division()             | used for dividing two or more numbers                   |
+| factorial()            | used for finding factor of a number                     |
+| modulus()              | used for finding modulus of a number                    |
+| power()                | used for finding power(i.e,square,cube,etc) of a number |
+| calculator_operations()| contains the menu for the user                          |
 
 
 
