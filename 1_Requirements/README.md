@@ -6,4 +6,10 @@ Simple calculator is a project that allow users to calculate basic operations in
 
 ## Features
 
+1. The System is user friendly
+2. The System is efficient and fast in response
+3. The System can be customized according to needs
+
+## System Requirements
+
 
