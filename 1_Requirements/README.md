@@ -16,9 +16,9 @@ Our System is an actual implementation of how a calculator works. We demonstrate
 
 ### Functional Requirements
 
-|Functional Requirement| Description|
+|Functional Requirement|             Description  |
 |:---------------------|:-----------|
-| Add                  | Used for addition of two or more numbers    |
+| Addition()           | Used for addition of two or more numbers    |
 
 
 ### System Requirements
