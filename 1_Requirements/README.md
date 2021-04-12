@@ -2,7 +2,7 @@
 
 ### Introduction
 
-Calculator Application(Console application without any graphics) is a project that allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 operator1 number2 operator2 number3" (i.e 2+4*10). The input values can be from any integer to even a number with decimals. Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction, in another word it is implemented with the order of precedence logic.
+Calculator Application(Console application without any graphics) is a project that allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 number2 number3...soo on" as in advance the user will be asked to choose what operation he/she want to perform (i.e, addition,subtraction,power,etc) on the numbers. The input values can be from any integer to even a number with decimals.
 
 ### Features
 
@@ -12,7 +12,7 @@ Calculator Application(Console application without any graphics) is a project th
 
 ### Defining our System
 
-Our System is an actual implementation of how a calculator works. We demonstrated its internal working, along with all necessary equipments that a general purpose user might find handy. This calculator may well fit into any other subsystems and can be useful in such circumstances. It allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 operator1 number2 operator2 number3" (i.e 2+4*10). The input values can be from any integer to even a number with decimals. Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction, in another word it is implemented with the order of precedence logic.
+Our System is an actual implementation of how a calculator works. We demonstrated its internal working, along with all necessary equipments that a general purpose user might find handy. This calculator may well fit into any other subsystems and can be useful in such circumstances. It allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 number2 number3...soo on" as in advance the user will be asked to choose what operation he/she want to perform (i.e, addition,subtraction,power,etc) on the numbers. The input values can be from any integer to even a number with decimals.
 
 ### Functional Requirements
 
@@ -26,7 +26,6 @@ Our System is an actual implementation of how a calculator works. We demonstrate
 | modulus()              | used for finding modulus of a number                    |
 | power()                | used for finding power(i.e,square,cube,etc) of a number |
 | calculator_operations()| contains the menu for the user                          |
-
 
 
 ### System Requirements
