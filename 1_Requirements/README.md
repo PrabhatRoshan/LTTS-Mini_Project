@@ -14,6 +14,13 @@ Simple calculator is a project that allow users to calculate basic operations in
 
 Our System is an actual implementation of how a calculator works. We demonstrated its internal working, along with all necessary equipments that a general purpose user might find handy. This calculator may well fit into any other subsystems and can be useful in such circumstances. It allow users to calculate basic operations in mathematics( addition, subtraction, multiplication, division, factorial, modulus, power). However, the input has to be in the form "number1 operator1 number2 operator2 number3" (i.e 2+4*10). The input values can be from any integer to even a number with decimals. Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction, in another word it is implemented with the order of precedence logic.
 
+### Functional Requirements
+
+|Functional Requirement| Description|
+|:---------------------|:-----------|
+| Add                  | To sum     |
+
+
 ### System Requirements
 
 1. Operating System : Windows(xp,7,8,10) , Linux(Ubuntu)
@@ -31,5 +38,3 @@ Our System is an actual implementation of how a calculator works. We demonstrate
 3. Oppurtunities    : Automates the impact of computation and technology, Progresses the problem solving insights, Develops a ability to describe strategy retrospectively.
 
 4. Threats          : Threats like Virus attack, code vulnerabilty, or cross platform.
-
-
