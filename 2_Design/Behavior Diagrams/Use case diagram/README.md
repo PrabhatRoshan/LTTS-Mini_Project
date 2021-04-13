@@ -6,7 +6,7 @@ I made the use case diagram by using "StarUML" desktop app.
 
 I am attaching both JPEG and pdf of my Use Case. 
 
-## TOOLS
+## Tools
 
 https://staruml.io/
 
