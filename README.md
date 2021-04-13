@@ -13,7 +13,12 @@
 
 ### Learning Resources
 
-1.markdowncheatsheet
-2.markdownbasics
-3.gitinspector
-4.github workflow
+1.https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+2.https://guides.github.com/features/mastering-markdown/
+
+3.https://github.com/ejwa/gitinspector
+
+4.https://docs.github.com/en/actions/learn-github-action
+
+5.https://staruml.io/
