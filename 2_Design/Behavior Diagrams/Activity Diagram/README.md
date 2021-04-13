@@ -4,7 +4,7 @@ An activity diagram is a behavioral diagram i.e. it depicts the behavior of a sy
 
 I made the use case diagram by using "StarUML" desktop app.
 
-I am attaching both JPEG and pdf.
+I am attaching both JPEG and pdf file.
 
 ## Tools
 
