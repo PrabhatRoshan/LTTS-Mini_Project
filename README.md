@@ -7,3 +7,4 @@
 |Folder| Description|
 |:-----|:-----------|
 |1_Requirements| Documents detailing requirements|
+|2_Design| Documents specifying design details(Behavior & Structure Diagrams)|
