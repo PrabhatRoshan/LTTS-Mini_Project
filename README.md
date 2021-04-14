@@ -2,7 +2,7 @@
 
 My Mini Project title is "Calculator Application". The main objective of this application to implement various mathematical operations in c language, through this application you will use various calculations to calculate different mathematical operations. The output of the project will be a console application without any graphics.
 
-## I Used Multifile Programming concept to complete this project by using user defined header file and also used Makefile concept. 
+##### I Used Multifile Programming concept to complete this project by using user defined header file and also used Makefile concept. 
 
 ## SDLC Activity Based Learning
 
