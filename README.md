@@ -14,6 +14,7 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 | 2_Design| Documents specifying design details(Behavior & Structure Diagrams)|
 | 3_Implementation| All code and documentation|
 | 4_Test_plan and Output| Documents with test plans and outputs|
+| 5_Report | Document contains Project report|
 
 ### Learning Resources
 
