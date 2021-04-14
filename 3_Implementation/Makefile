@@ -25,6 +25,6 @@ run:$(PROJECT_NAME)
 clean:
 	del /q *.exe
 	
-doc: Doxyfile
-	doxygen ./Doxyfile
+doc:
+	make -C ./documentation
 	
