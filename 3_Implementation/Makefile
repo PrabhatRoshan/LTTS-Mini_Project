@@ -28,3 +28,6 @@ clean:
 doc:
 	make -C ./documentation
 	
+$(BUILD):
+	mkdir build
+	
