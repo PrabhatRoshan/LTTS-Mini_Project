@@ -82,8 +82,8 @@ void test_factorial(void) {
 }
 
 void test_power(void) {
-  TEST_ASSERT_EQUAL(8, divide(2, 3));
+  TEST_ASSERT_EQUAL(8, power(2, 3));
   
   /* Dummy fail*/
-  TEST_ASSERT_EQUAL(4, divide(2, 2));
+  TEST_ASSERT_EQUAL(4, power(2, 2));
 }
