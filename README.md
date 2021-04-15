@@ -6,6 +6,8 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 
 ## SDLC Activity Based Learning
 
+[![Code Quality - Static Code - Cppcheck](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/cppcheck.yml)
+
 ### Folder Structure
 
 |Folder| Description|
