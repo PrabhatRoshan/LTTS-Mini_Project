@@ -1,5 +1,5 @@
 #include<stdio.h>
-//#include<conio.h>
+#include<conio.h>
 #include<math.h>
 #include<stdlib.h>
 #include "my_header.h"
@@ -32,7 +32,7 @@ int main()
         printf("\n");
         printf("%s : ", KEY);
  
-        Calc_oprn=getchar();
+        Calc_oprn=getche();
  
         switch(Calc_oprn)
         {
