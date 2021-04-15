@@ -8,14 +8,14 @@ TEST_PROJECT_NAME=TEST_$(PROJECT_NAME)
 BUILD_DIR=Build
 
 SRC=main.c\
-src\calculator_operations.c\
-src\addition.c\
-src\division.c\
-src\factorial.c\
-src\modulus.c\
-src\multiplication.c\
-src\power.c\
-src\subtraction.c
+src/calculator_operations.c\
+src/addition.c\
+src/division.c\
+src/factorial.c\
+src/modulus.c\
+src/multiplication.c\
+src/power.c\
+src/subtraction.c
 
 TEST_SRC=test\test_calculator_operation.c\
 unity\unity.c
