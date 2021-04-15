@@ -8,6 +8,8 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 
 [![Code Quality - Static Code - Cppcheck](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/cppcheck.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/PrabhatRoshan/LTTS-Mini_Project/actions/workflows/gitinspector.yml)
+
 ### Folder Structure
 
 |Folder| Description|
