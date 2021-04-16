@@ -62,3 +62,13 @@ In all the domains it can be used. As the project is portable and user-friendly,
 
 #### HOW
 System design is a solution for “HOW TO” approach to the creation of a new system. It translates system requirements into ways by which they can be made operational. It is a translational from a user oriented document to a document oriented programmers. For that, it provides the understanding and procedural details necessary for the implementation. Here UML diagrams are used to supplement the working of the new system. The system thus made should be reliable, durable and above all should have least possible maintenance costs.
+
+
+### Detail Requirement
+
+#### High Level Requirement
+
+|ID|Description|Category|Status|
+|:-|:----------|:-------|:-----|
+| H001 | A user should be able to perform arithmetic operations | Technical | Implemented |
+| H002 | A user should be able to perform scientific operations | Technical | Implemented |
