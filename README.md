@@ -2,7 +2,7 @@
 
 My Mini Project title is "Calculator Application". The main objective of this application to implement various mathematical operations in c language, through this application you will use various calculations to calculate different mathematical operations. The output of the project will be a console application without any graphics.
 
-![program-to-make-a-simple-calculator-1024x512](https://user-images.githubusercontent.com/80385292/114993688-ac319100-9eb9-11eb-97eb-75c139f77e90.png)
+
 
 ##### I Used Multifile Programming concept to complete this project by using user defined header file and also used Makefile concept. 
 
