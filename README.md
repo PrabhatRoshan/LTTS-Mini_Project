@@ -18,6 +18,14 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 | 4_Test_plan and Output| Documents with test plans and outputs|
 | 5_Report | Document contains Project report|
 
+
+### Challenges Faced and How Was It Overcome
+
+|NO|Challenge|Solution|
+|:-|:--------|:-------|
+|01|Resource unavailable while using system commands|Uninstalled Windows Defender|
+|02|Make file not working even after following all steps|renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe|
+
 ### Learning Resources
 
 1.https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
@@ -29,10 +37,3 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 4.https://docs.github.com/en/actions/learn-github-action
 
 5.https://staruml.io/
-
-### Challenges Faced and How Was It Overcome
-
-|NO|Challenge|Solution|
-|:-|:--------|:-------|
-|01|Resource unavailable while using system commands|Uninstalled Windows Defender|
-|02|Make file not working even after following all steps|renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe|
