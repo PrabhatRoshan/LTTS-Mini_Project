@@ -17,3 +17,8 @@
 ## Component Diagram
 
 ![ComponentDiagram](https://user-images.githubusercontent.com/80385292/114994408-5d382b80-9eba-11eb-9ff7-2cb2494c46be.jpg)
+
+## Output Screenshot
+
+
+![Output screenshot](https://user-images.githubusercontent.com/80385292/114995248-3fb79180-9ebb-11eb-9914-2c6d3c7ac98f.png)
