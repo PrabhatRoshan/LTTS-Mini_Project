@@ -19,6 +19,7 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 | 3_Implementation| All code and documentation|
 | 4_Test_plan and Output| Documents with test plans and outputs|
 | 5_Report | Document contains Project report|
+| 6_Images and Videos| Conatins project related Images|
 
 
 ### Challenges Faced and How Was It Overcome
