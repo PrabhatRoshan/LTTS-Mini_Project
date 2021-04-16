@@ -26,7 +26,7 @@ My Mini Project title is "Calculator Application". The main objective of this ap
 |NO|Challenge|Solution|
 |:-|:--------|:-------|
 |01|Resource unavailable while using system commands|Uninstalled Windows Defender|
-|02|Make file not working even after following all steps|renamed Mingw/bin/mingw32-make.exe to Mingw/bin/make.exe|
+|02|Make file not working even after following all steps|Adding the path to Environmental variable|
 
 ### Learning Resources
 
