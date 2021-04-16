@@ -72,3 +72,17 @@ System design is a solution for “HOW TO” approach to the creation of a new s
 |:-|:----------|:-------|:-----|
 | H001 | A user should be able to perform arithmetic operations | Technical | Implemented |
 | H002 | A user should be able to perform scientific operations | Technical | Implemented |
+
+
+#### Low Level Requirement
+
+
+|ID|Description|HLR ID|Status|
+|:-|:----------|:-------|:-----|
+| L001 | When user performs the ' + ' operation the result should be addition of as many number as per user's choice | H001 | Implemented |
+| L002 | When user performs the ' - ' operation the result should be subtraction of as many number as per user's choice | H001 | Implemented |
+| L003 | When user performs the ' * ' operation the result should be multiplication of as many number as per user's choice | H001 | Implemented |
+| L004 | When user performs the ' / ' operation the result should be division of a number as per user's choice| H001 | Implemented |
+| L005 | When user performs the ' ? ' operation the result should be modulus of a number as per user's choice | H002 | Implemented |
+| L006 | When user performs the ' ^ ' operation the result should be power of a number such as (square,cube,etc) | H002 | Implemented |
+| L007 | When user performs the ' ! ' operation the result should be factorial of a number as per user's choice | H002 | Implemented |
